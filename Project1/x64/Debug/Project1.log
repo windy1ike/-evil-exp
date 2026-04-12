@@ -1,0 +1,66 @@
+﻿  drug.c
+  entities.c
+  input_util.c
+  io.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\input_util.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\input_util.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\io.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“io.c”)
+  
+  main.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\main.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\main.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\app.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.c”)
+  
+  menu_nav.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\menu_nav.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\menu_nav.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  record.c
+  reports.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\reports.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\reports.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\reports.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“reports.c”)
+  
+  session.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\session.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\session.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  system.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\app.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.c”)
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\model.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.c”)
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\reports.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.c”)
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\io.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.c”)
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\input.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system.c”)
+  
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\system.c(729,25): warning C4013: “append_drug_stock_record_to_file”未定义；假设外部返回 int
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\system.c(1088,19): warning C4013: “menu_select”未定义；假设外部返回 int
+  time_util.c
+  ui_print.c
+C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\ui_print.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\Project1\ui_print.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  validate.c
+  ward.c
+  正在生成代码...
+  Project1.vcxproj -> C:\代码存放处\课设1.0\hospital-console-main\hospital-console-main\x64\Debug\Project1.exe
